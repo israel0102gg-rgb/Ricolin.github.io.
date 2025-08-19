@@ -82,14 +82,14 @@
 </div>
 
 <div class="libro" id="libro" onclick="siguientePagina()">
-  <div class="pagina activa">Hola ana, primero que nada felicitaciones por llegar a los 200 días de racha de tiktok </div>
-  <div class="pagina">No cualquiera la verdad y esta racha empezó por un descuido xD.<br><br>200 días aguantándonos y que sean más (eso espero) 😅</div>
-  <div class="pagina">Muchas cosas se hablaron en este chat xD como recuerdos, desgracias, arrepentimientos, reflexiones, risas, inseguridades...</div>
-  <div class="pagina">Story time, regla 📏, desveladas, chismes, actualizaciones, códigos de uber xD, verdades, autocorrector humillante...</div>
-  <div class="pagina">¿Te sientes muy onichan?, agradecimientos, apoyo en malos momentos, apuestas (siempre perdi), invitaciones a jugar...</div>
+  <div class="pagina activa">Hola ana, primero que nada felicitaciones por llegar a los 200 días de racha de tiktok conmigo </div>
+  <div class="pagina">No cualquiera la verdad y esta racha empezó por un descuido xD.creo q recuerdas muy bien <br><br>200 días aguantándonos y que sean más (eso espero) 😅</div>
+  <div class="pagina">Muchas cosas se hablaron en este chat xD aqui un pequeño resumen:como recuerdos, desgracias, arrepentimientos, reflexiones, risas, inseguridades...</div>
+  <div class="pagina">Story time, regla 📏, desveladas, chismes, actualizaciones, códigos de uber xD, verdades, autocorrector humillando...</div>
+  <div class="pagina">¿Te sientes muy onichan?, agradecimientos, apoyo en malos momentos, apuestas (siempre perdia), invitaciones a jugar...</div>
   <div class="pagina">Doxxeadas, gustos culposos, chat gpt, tlou (ya sabes), recetas, capítulos de la Rosa, África 🗣, coca, Montoya 🗣</div>
-  <div class="pagina">Compartir buena música (esclava), y de lo más importante: tiktoks good <br><br>Lo importante es que siempre se disfrutó. Eso creo.</div>
-  <div class="pagina">Pero gracias pq sigues estando aquí 😁</div>
+  <div class="pagina">Compartir buena música (esclava), no en un psicólogo se habla tanto XD y de lo más importante: tiktoks good, bueno, es importante pero<br><br>Lo importante es que siempre se disfrutó. Eso creo. y espero</div>
+  <div class="pagina">Pero gracias pq sigues estando aquí aguantándome, se que hablo mucho osea escribo mucho ps y siento q aveces molesto o enfado y por metiche XD solo dime si eso llega a pasar, para calmarme, y sabes lo q pienso de eso? que me vale XD seguire estando ahi, psicólogo ricolin a ma orden pero enserió ty. 😁</div>
   <div class="pagina">
     🎥 video un poco revelador, ty por todo:<br><br>
     <video controls>
